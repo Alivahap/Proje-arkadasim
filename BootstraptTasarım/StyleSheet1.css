@@ -1,0 +1,131 @@
+﻿*{
+    box-sizing:border-box;
+    font-family:'Times New Roman';
+
+
+}
+
+
+
+body {
+    padding:0;
+    margin:0;
+
+
+
+}
+header {
+    width: 100%;
+    height: auto;
+    /*border: 1px solid blue;*/
+}
+
+
+
+
+
+.HeaderInfo {
+    position: absolute;
+    color: white;
+    width: 40%;
+    height: auto;
+    /*border: 2px solid red;*/
+    top: 0%;
+    left: 30%;
+    padding: 15px;
+}
+    .HeaderInfo h1 {
+        text-align: center;
+        font-size: 25px;
+        background-color:cornflowerblue;
+    }
+
+
+.selectSet {
+    width: 100%;
+    height: auto;
+    margin-top: 0px;
+}
+
+.ButtonResearch{
+
+    margin-left:70%;
+}
+.main{
+    border:1px solid black;
+    width:100%;
+    height:100rem;
+    background-color:black;
+
+
+}
+#InfoWebsite {
+    width: 100%;
+    height: 60rem;
+    border: 1px solid blue;
+    background-color:whitesmoke;
+}
+
+.PictureUs img {
+    background-size: cover;
+    width: 40%;
+    background-position: center;
+    margin-left:30%;
+    margin-top:1%;
+    height: 30rem;
+}
+
+
+.InfoUs h1 {
+    text-align:center;
+    color: blue;
+    font-size: 25px;
+   
+}
+.InfoUs p {
+    color: gray;
+    font-size: 15px;
+  margin-left:7%;
+    text-align:left;
+    
+}
+
+#ProjectInfo{
+    margin-top:9%;
+    /*background-image:url('img/Ali Vahap Aydın.png');*/
+    background-color:black;
+    width:100%;
+    height:20rem;
+    background-size:cover;
+    background-position:center;
+    
+
+}
+
+footer {
+    width: 100%;
+    height: 90rem;
+    background-color: black;
+    padding: 2rem;
+}
+
+
+#SectionFooter hr{
+    background-color:blue;
+    height:5px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
